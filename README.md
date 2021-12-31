@@ -40,4 +40,7 @@ in addition to the procedural guidance this platform will provide users with the
 >>spring boot framework will be used for the backend
 
 >>we will be using a relational database to store the files (specifically SQL), this is choosen because we will store only large text files for the blogs which are well structured and use relativeley lower storage, and it is also well suited for our search functionality as it has more concistency and control over the contents of the text files 
+
+>>we will be using spring security for authentication and authorization
+
 >>
