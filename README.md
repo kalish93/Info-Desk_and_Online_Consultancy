@@ -33,6 +33,8 @@ in addition to the procedural guidance this platform will provide users with the
 >>a commenting section specifically for a blog posted by a consultant will be available for the info-seeking customers in which they will be abel to share their experiences during their attempt to accomplish their task
 
 >>the customers will have CRUD functionality on the comments they have given
+
+
 #We will be using the following to design our platform
 
 >>spring boot framework will be used for the backend
